@@ -41,7 +41,7 @@ export default function Footer() {
               className="text-2xl font-bold font-display gradient-text inline-block mb-3"
               whileHover={{ scale: 1.05 }}
             >
-              PT<span className="text-primary-400">.</span>
+              JK<span className="text-primary-400">.</span>
             </motion.a>
             <p className="text-gray-500 text-sm">
               &copy; {new Date().getFullYear()} Josh Krol. All rights reserved.
